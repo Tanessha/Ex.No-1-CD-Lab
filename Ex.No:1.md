@@ -78,6 +78,8 @@ OUTPUT:
 
 ![Screenshot 2024-09-24 111349](https://github.com/user-attachments/assets/fc36c006-6e61-49dc-b616-97ba241a809a)
 
+
 RESULT:
+
 
 The program to implement a symbol table is executed and the output is verified.
